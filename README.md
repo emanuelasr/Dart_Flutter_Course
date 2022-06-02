@@ -1,2 +1,2 @@
-# Dart_Flutter_Course
+# DART & FLUTTER COURSE
 Learning Dart/Flutter. 
