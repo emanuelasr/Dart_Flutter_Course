@@ -20,3 +20,12 @@ For example, if you played "rock", and the program player "paper", the output sh
 > AI played: paper
 > You Lose 
 
+main ideas to work this project.
+
+// show prompt 
+// read user input from console
+// if input is a valid move ('r', 'p' or 's')
+// chose the AI move at random
+// compare the player move with the AI move 
+// show the result 
+
