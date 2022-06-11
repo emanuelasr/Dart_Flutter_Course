@@ -102,7 +102,7 @@ void main() {
       } else {
         counterBot++;
         print('You lose 🦾🤖');
-        print('YOU: $counterHuman | AI: $counterBot');
+        print('YOU: $counterHuman | AI: $counterBot'); //.
       }
     }
   }
