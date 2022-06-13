@@ -25,6 +25,10 @@ void main() {
 
       final random = rng.nextInt(3);
       final aiMove = Move.values[random];
+
+      print('PLAYER MOVE: ${playerMove}');
+      print('AI MOVE: ${aiMove.name}');
+
       if (playerMove == aiMove) {
         print('It\'s a DRAW');
       } else if (playerMove == Move.rock && aiMove == Move.scissor ||
